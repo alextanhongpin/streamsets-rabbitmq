@@ -1,0 +1,18 @@
+{
+  "pipelineId" : "testrabbitmqe672ea8c-10f6-43fe-b53d-9cbe004fb652",
+  "title" : "test-rabbitmq",
+  "description" : "",
+  "created" : 1512632178383,
+  "lastModified" : 1512636409564,
+  "creator" : "admin",
+  "lastModifier" : "admin",
+  "lastRev" : "0",
+  "uuid" : "48134c25-f0d6-4b8c-ab3b-511fbfbcc375",
+  "valid" : true,
+  "metadata" : {
+    "labels" : [ ]
+  },
+  "name" : "testrabbitmqe672ea8c-10f6-43fe-b53d-9cbe004fb652",
+  "sdcVersion" : "2.7.1.1",
+  "sdcId" : "3f749c6e-db21-11e7-89dd-6bd874a6ccf6"
+}
